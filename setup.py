@@ -13,6 +13,7 @@ REQUIREMENTS = [
     'requests>=2.6.0',
     'six>=1.9.0',
     'Werkzeug>=0.10.4',
+    'urllib3'
 ]
 TEST_REQUIREMENTS = [
     'coverage',
